@@ -77,4 +77,4 @@ contract Campaign {
         request.recipient.transfer(request.value);
         request.complete = true;
     }
-}
+
